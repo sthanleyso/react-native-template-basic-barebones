@@ -1,0 +1,21 @@
+{
+  "name": "react-native-template-basic-barebones",
+  "version": "1.0.0",
+  "description": "Template para projetos em React Native",
+  "keywords": [
+    "react-native",
+    "template",
+    "eslint",
+    "react-navigation",
+    "babel-root-import",
+    "axios",
+    "styled-components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sthanleyso/react-native-template-basic-barebones.git"
+  },
+  "homepage": "https://github.com/sthanleyso/react-native-template-basic-barebones.git",
+  "author": "Sthanley Soares <sthanleys7@gmail.com>",
+  "license": "MIT"
+}
