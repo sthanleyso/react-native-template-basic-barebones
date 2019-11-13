@@ -1,6 +1,6 @@
 {
-  "name": "react-native-template-basic-barebones",
-  "version": "1.0.0",
+  "name": "react-native-template-get-ready-to-code",
+  "version": "1.0.2",
   "description": "Template para projetos em React Native",
   "keywords": [
     "react-native",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:sthanleyso/react-native-template-basic-barebones.git"
+    "url": "git@github.com:sthanleyso/react-native-template-get-ready-to-code.git"
   },
-  "homepage": "https://github.com/sthanleyso/react-native-template-basic-barebones.git",
+  "homepage": "https://github.com/sthanleyso/react-native-template-get-ready-to-code.git",
   "author": "Sthanley Soares <sthanleys7@gmail.com>",
   "license": "MIT"
 }

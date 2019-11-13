@@ -1,4 +1,4 @@
-### React Native Template Basic Barebones
+### React Native Template Get Ready To Code
 
 <!-- ABOUT THE PROJECT -->
 
@@ -17,7 +17,7 @@ Para conseguir utilizar o template, seja através do React Native CLI ou com uma
 1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
 
 ```sh
-react-native init NomeDoProjeto --template basic-barebones
+react-native init NomeDoProjeto --template get-ready-to-code
 ```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
