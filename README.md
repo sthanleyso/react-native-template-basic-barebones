@@ -72,6 +72,12 @@ public class MainActivity extends ReactActivity {
 }
 ```
 
+Adicione a seguinte linha no topo do seu arquivo principal, como `ìndex.js` ou `App.js`:
+
+```javascript
+import 'react-native-gesture-handler'
+```
+
 ---
 
 <!-- LICENSE -->
