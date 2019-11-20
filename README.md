@@ -35,6 +35,13 @@ Com isso o projeto será criado com todas as dependências do template devidamen
 
 #### Passo Adicional no Android
 
+Para finalizar a instalação do `react-native-screens` no Android, adicione as duas linhas seguintes na seção `dependencies` em `android/app/build.gradle`:
+
+```gradle
+implementation 'androidx.appcompat:appcompat:1.1.0-rc01'
+implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02'
+```
+
 Para que os gestos sejam habilitados no Android é necessário um passo a mais, que é bem simples, abra o arquivo `android/app/src/main/java/<pacote_do_projeto>/MainActivity.java`, e comece importando os pacotes como abaixo:
 
 ```java
