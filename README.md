@@ -1,7 +1,7 @@
 <!-- PROJECT BADGES -->
 
 ![npm](https://img.shields.io/npm/v/react-native-template-get-ready-to-code)
-![npm](https://img.shields.io/npm/dw/react-native-template-get-ready-to-code)
+![npm](https://img.shields.io/npm/dt/react-native-template-get-ready-to-code)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sthanleyso/react-native-template-get-ready-to-code)
 ![GitHub](https://img.shields.io/github/license/sthanleyso/react-native-template-get-ready-to-code)
 
