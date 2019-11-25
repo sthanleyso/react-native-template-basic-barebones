@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:sthanleyso/react-native-template-get-ready-to-code.git"
+    "url": "git@github.com:sthanleyso/react-native-template-basic-workflow.git"
   },
-  "homepage": "https://github.com/sthanleyso/react-native-template-get-ready-to-code.git",
+  "homepage": "https://github.com/sthanleyso/react-native-template-basic-workflow.git",
   "author": "Sthanley Soares <sthanleys7@gmail.com>",
   "license": "MIT"
 }
