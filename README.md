@@ -1,11 +1,11 @@
 <!-- PROJECT BADGES -->
 
-![npm](https://img.shields.io/npm/v/react-native-template-get-ready-to-code)
-![npm](https://img.shields.io/npm/dt/react-native-template-get-ready-to-code)
-![GitHub last commit](https://img.shields.io/github/last-commit/sthanleyso/react-native-template-get-ready-to-code)
-![GitHub](https://img.shields.io/github/license/sthanleyso/react-native-template-get-ready-to-code)
+![npm](https://img.shields.io/npm/v/react-native-template-basic-workflow)
+![npm](https://img.shields.io/npm/dt/react-native-template-basic-workflow)
+![GitHub last commit](https://img.shields.io/github/last-commit/sthanleyso/react-native-template-basic-workflow)
+![GitHub](https://img.shields.io/github/license/sthanleyso/react-native-template-basic-workflow)
 
-### React Native Template Get Ready To Code
+### React Native Template Basic Workflow
 
 <!-- ABOUT THE PROJECT -->
 
@@ -24,7 +24,7 @@ Para conseguir utilizar o template, seja através do React Native CLI ou com uma
 1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
 
 ```sh
-react-native init NomeDoProjeto --template get-ready-to-code
+react-native init NomeDoProjeto --template basic-workflow
 ```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
